@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">multimediaapp</string>
+    <string name="menu_play_audio">Reproducir Audio</string>
+    <string name="menu_play_video_mp">Reproducir Video (MediaPlayer)</string>
+    <string name="menu_play_video_sv">Reproducir Video (SurfaceView)</string>
+    <string name="menu_play_video_vv">Reproducir Video (VideoView)</string>
+    <string name="menu_take_photo">Tomar Foto</string>
+    <string name="button_pause">Pausa</string>
+    <string name="button_play">Play</string>
+    <string name="button_return">Regresar</string>
+</resources>
